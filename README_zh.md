@@ -1,10 +1,13 @@
 # 数据挖掘
+[![License](https://img.shields.io/hexpm/l/plug.svg)](LICENSE) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/Lmy0217/DataMining/pulls)
+
+[English](README.md)
 
 数据挖掘算法软件。
 
 ## 开发环境
 * Eclipse 4.2.2 (Juno)
-* JDK 1.5
+* JDK 1.8
 
 ## 代码结构
 * algorithm -- 算法集，可自由加入算法

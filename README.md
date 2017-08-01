@@ -1,10 +1,13 @@
 # DataMining
+[![License](https://img.shields.io/hexpm/l/plug.svg)](LICENSE) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/Lmy0217/DataMining/pulls)
+
+[中文](README_zh.md)
 
 A data mining software with some algorithms.
 
 ## Development Environment
 * Eclipse 4.2.2 (Juno)
-* JDK 1.5
+* JDK 1.8
 
 ## Code Structure
 * algorithm -- algorithm set, add what you want
