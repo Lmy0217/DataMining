@@ -1,5 +1,5 @@
 # 数据挖掘
-[![License](https://img.shields.io/hexpm/l/plug.svg)](LICENSE) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/Lmy0217/DataMining/pulls)
+[![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](LICENSE) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/Lmy0217/DataMining/pulls)
 
 [English](README.md)
 
